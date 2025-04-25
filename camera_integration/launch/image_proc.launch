@@ -1,0 +1,10 @@
+<launch>
+    <group ns="usb_cam">
+        <node pkg="image_proc" type="image_proc" name="image_proc" output="screen">
+            <remap from="image_raw" to="image_raw"/>
+            <remap from="camera_info" to="camera_info"/>
+            <remap from="image" to="image_rect"/>
+        </node>
+    </group>
+</launch>
+
