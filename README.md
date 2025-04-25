@@ -18,6 +18,15 @@ Diese Arbeit präsentiert ein **kosteneffizientes, vision-basiertes Kalibrierung
 🧰 **Technologiestack:**  
 ROS 🐢 | Python 🐍 | AprilTag3 🏷️ | RViz 🖼️ | CAN-Bus 🔌
 
+Kalibrierungssystem: Entwicklung eines ROS-basierten Systems zur fortlaufenden Kalibrierung eines 6-DOF-Roboterarms durch vision-basierte TCP-Pose-Schätzung
+
+Bildverarbeitung: Integration des AprilTag3-Algorithmus zur robusten Markererkennung und präzisen Pose-Bestimmung mittels monokularer Kamera
+
+Kinematikmodellierung: Anwendung der Produkt-von-Exponentiellen-Methode zur Beschreibung der Roboterkinematik und Identifikation fehlerhafter Modellparameter
+
+Robotersteuerung: Umsetzung einer sicheren Bewegungsausführung über CAN-Bus und ROS-Nodes mit geschwindigkeitsbasierter Steuerung und RViz-Visualisierung
+
+Systemvalidierung: Durchführung experimenteller Versuchsreihen zur Analyse von Messfehlern und Bewertung der Kalibrierqualität anhand realer Positionsdaten
 ---
 
 ## 📁 Projektstruktur
