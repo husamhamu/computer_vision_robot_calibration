@@ -55,7 +55,9 @@ Robotersteuerung: Umsetzung einer sicheren Bewegungsausführung über CAN-Bus un
 
 ![image](https://github.com/user-attachments/assets/8c634882-e1ee-4fa0-ac0b-da92b7a163ef)
 
-
+🔁 **Feste Transformationen:**  
+- Kamera ↔ Roboterbasis 
+- TCP ↔ AprilTag am Endeffektor 
 ---
 
 ### 🦿 2. Robotersteuerung
@@ -90,9 +92,6 @@ Schachbrettmuster mit 8×6 Feldern, 30 mm Kantenlänge
 ![image](https://github.com/user-attachments/assets/ebb77308-d259-4f17-9060-4e94143d6e5e)
 
 
-🔁 **Feste Transformationen:**  
-- 📍 Kamera ↔ Roboterbasis → [Abbildung 2.2–2.3]  
-- 🤝 TCP ↔ AprilTag am Endeffektor → [Abbildung 2.4–2.5]
 
 🧰 **Hardware-Aufbau:**
 
