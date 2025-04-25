@@ -26,7 +26,6 @@ Kinematikmodellierung: Anwendung der Produkt-von-Exponentiellen-Methode zur Besc
 
 Robotersteuerung: Umsetzung einer sicheren Bewegungsausführung über CAN-Bus und ROS-Nodes mit geschwindigkeitsbasierter Steuerung und RViz-Visualisierung
 
-Systemvalidierung: Durchführung experimenteller Versuchsreihen zur Analyse von Messfehlern und Bewertung der Kalibrierqualität anhand realer Positionsdaten
 ---
 
 ## 📁 Projektstruktur
